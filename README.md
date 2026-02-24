@@ -133,7 +133,7 @@ Monetization Analysis: Hangi oyun içi ürünlerin hangi bölgede daha çok satt
 Retention Tracking: Seviye bazlı oyuncu dökülme oranları.
 Engagement Heatmaps: Günlük ve haftalık aktif kullanıcı (DAU/WAU) trendleri.
 
-ve dahası Presentation_and_Visual klasorun içinden inceleyebilirisniz. Tüm kolar ise Source_Code klasorun içinde 
+## ve dahası Presentation_and_Visual klasorun içinden inceleyebilirisniz. Tüm kolar ise Source_Code klasorun içinde 
 
 
 
@@ -147,18 +147,20 @@ Görselleştirme: Power BI, Seaborn, Matplotlib
 
 
 
+## 📁 Dosya Yapısı
 
-
-📁 Dosya Yapısı
+```text
 ├── Source_Code/
-│   ├── Gaming_Analitc-Model.ipynb  # Veri Ön İşleme ve ML Modelleme
-│   ├── Model_(UI).py            # Web Arayüzü Kodları
-│   └── requirements.txt            # Kütüphane Listesi
-│   └── Background picture.jpeg
+│   ├── Gaming_Analitc-Model.ipynb    # Veri Ön İşleme ve ML Modelleme
+│   ├── Model_(UI).py                # Web Arayüzü Kodları
+│   ├── requirements.txt             # Kütüphane Listesi
+│   └── Background picture.jpeg      # Arayüz Arka Plan Görseli
 ├── Presentation_and_Visuals/
 │   ├── .png
 │   ├── .png
 └── README.md
+
+
 
 
 Nasıl Kullanılır?
