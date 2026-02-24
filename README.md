@@ -14,9 +14,8 @@ Bölgesel Performans: USA, Europe ve Asia bölgeleri arasında "Gelir Per-Capita
 💡 Stratejik Aksiyon Planı,🌍 Bölgesel Pazar Analizi
 <img src=Presentation_and_Visuals/PowerBI_Strategic_Recommendations_12.png width=400>,<img src=Presentation_and_Visuals/PowerBI_Location-Based-Strategic-Dashborad_9.png width=400>
 Stratejik Öneriler,Bölgesel Analiz
-🔄 Bağlılık & Churn Analitiği
-<img src=Presentation_and_Visuals/PowerBI_Retention&Churn_Insight_8.png width=400>
-Retention & Churn Analizi
+
+
 
 
 🎯 2. Segmentasyon ve İçgörü Geliştirme
