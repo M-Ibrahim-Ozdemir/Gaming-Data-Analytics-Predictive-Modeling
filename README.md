@@ -133,6 +133,8 @@ Monetization Analysis: Hangi oyun içi ürünlerin hangi bölgede daha çok satt
 Retention Tracking: Seviye bazlı oyuncu dökülme oranları.
 Engagement Heatmaps: Günlük ve haftalık aktif kullanıcı (DAU/WAU) trendleri.
 
+ve dahası Presentation_and_Visual klasorun içinden inceleyebilirisniz. Tüm kolar ise Source_Code klasorun içinde 
+
 
 
 🛠️ Teknoloji Seti
@@ -141,6 +143,9 @@ Algoritmalar: (LightGBM) , XGBoost, CatBoost
 Veritabanı & Sorgulama: SQL, Excell
 Görselleştirme: Power BI, Seaborn, Matplotlib
 Ürünleştirme: Streamlit
+
+
+
 
 
 
