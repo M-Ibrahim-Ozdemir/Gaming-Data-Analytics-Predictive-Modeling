@@ -44,14 +44,6 @@ Resimleri biraz küçülttüm (width=400), böylece yan yana sığacaklar ve ta�
 <img src=Presentation_and_Visuals/PowerBI_Retention&Churn_Insight_8.png width=400>
 </td>
 <td width="50%" align="center">
-<b>🎯 Oyuncu Segmentasyonu</b>
-
-
-
-<img src=Presentation_and_Visuals/PowerBI_PlayerSegmentation_7.png width=400>
-</td>
-</tr>
-</table>
 
 
 
