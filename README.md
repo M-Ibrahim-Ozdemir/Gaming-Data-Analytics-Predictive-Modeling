@@ -12,17 +12,9 @@ Demografik Dağılım: Oyuncu kitlesinin yaş, cinsiyet ve bölge bazlı dağıl
 Bölgesel Performans: USA, Europe ve Asia bölgeleri arasında "Gelir Per-Capita" ve "Etkileşim Oranı" (Engagement Rate) farklılıkları saptanmış, lokasyon bazlı kampanya önerileri geliştirilmiştir.
 
 
-### 📊 Veri Madenciliği ve Stratejik Analiz Görselleri
-
-| 🎯 Oyuncu Segmentasyonu | 💡 Stratejik Aksiyon Planı |
-| :---: | :---: |
-| <img src="Presentation_and_Visuals/PowerBI_PlayerSegmentation_7.png" width="450"> | <img src="Presentation_and_Visuals/PowerBI_Strategic_Recommendations_12.png" width="450"> |
-| *Davranışsal Segmentasyon Dağılımı* | *Veriye Dayalı Stratejik Öneriler* |
-
-| 🌍 Bölgesel Pazar Analizi | 🔄 Bağlılık & Churn Analitiği |
-| :---: | :---: |
-| <img src="Presentation_and_Visuals/PowerBI_Location-Based-Strategic-Dashborad_9.png" width="450"> | <img src="Presentation_and_Visuals/PowerBI_Retention&Churn_Insight_8.png" width="450"> |
-| *Location-Based Strategic Insights* | *Retention & Churn Prediktif Analizi* |
+💡 Stratejik Aksiyon Planı,🌍 Bölgesel Pazar Analizi,🔄 Bağlılık & Churn Analitiği
+"<img src=""Presentation_and_Visuals/PowerBI_Strategic_Recommendations_12.png"" width=""300"">","<img src=""Presentation_and_Visuals/PowerBI_Location-Based-Strategic-Dashborad_9.png"" width=""300"">","<img src=""Presentation_and_Visuals/PowerBI_Retention&Churn_Insight_8.png"" width=""300"">"
+Stratejik Öneriler,Bölgesel Analiz,Retention & Churn
 
 
 
@@ -64,17 +56,17 @@ Canlı Tahminleme: İş birimleri, oyuncu metriklerini (yaş, harcama, oyun sür
 
 
 
-
-
 📊 5. Stratejik Karar Destek Dashboardları (Power BI)
 Yönetici özeti tadında hazırlanan dashboardlarda şu içgörüler sunulmaktadır:
 Monetization Analysis: Hangi oyun içi ürünlerin hangi bölgede daha çok sattığı.
 Retention Tracking: Seviye bazlı oyuncu dökülme oranları.
 Engagement Heatmaps: Günlük ve haftalık aktif kullanıcı (DAU/WAU) trendleri.
 
+
+
 🛠️ Teknoloji Seti
 Diller: Python (Pandas, Numpy, Scikit-learn, Scipy)
-Algoritmalar: LightGBM, XGBoost, CatBoost
+Algoritmalar: (LightGBM) , XGBoost, CatBoost
 Veritabanı & Sorgulama: SQL, Excell
 Görselleştirme: Power BI, Seaborn, Matplotlib
 Ürünleştirme: Streamlit
