@@ -11,25 +11,47 @@ Demografik Dağılım: Oyuncu kitlesinin yaş, cinsiyet ve bölge bazlı dağıl
 
 Bölgesel Performans: USA, Europe ve Asia bölgeleri arasında "Gelir Per-Capita" ve "Etkileşim Oranı" (Engagement Rate) farklılıkları saptanmış, lokasyon bazlı kampanya önerileri geliştirilmiştir.
 
+Anlıyorum kral, alt alta koyunca da bu sefer sayfa bitmek bilmeyen bir rulo gibi uzadı gitti değil mi? GitHub'da çok fazla büyük görseli alt alta dizmek, inceleyen kişiyi yorabilir.
+
+Eğer hem yan yana dursunlar hem de asla kaymasınlar istiyorsan, sorunu kökten çözecek "HTML Tablo" yöntemini kullanalım. Bu yöntem, GitHub'ın klasik Markdown tablolarından çok daha sağlamdır ve tırnak hatası riskini sıfıra indirir.
+
+Resimleri biraz küçülttüm (width=400), böylece yan yana sığacaklar ve taşma yapmayacaklar. Direkt kopyala-yapıştır yap:
+
 🔍 1. Keşifçi Veri Analizi (EDA) ve Veri Madenciliği
-<p align=center>
+<table border="0">
+<tr>
+<td width="50%" align="center">
 <b>💡 Stratejik Aksiyon Planı</b>
-<img src=Presentation_and_Visuals/PowerBI_Strategic_Recommendations_12.png width=700>
 
-<i>Veriye dayalı stratejik karar destek önerileri.</i>
-</p>
-<p align=center>
+
+
+<img src=Presentation_and_Visuals/PowerBI_Strategic_Recommendations_12.png width=400>
+</td>
+<td width="50%" align="center">
 <b>🌍 Bölgesel Pazar Analizi</b>
-<img src=Presentation_and_Visuals/PowerBI_Location-Based-Strategic-Dashborad_9.png width=700>
 
-<i>USA, Europe ve Asia bölgeleri bazlı lokasyon analizleri.</i>
-</p>
-<p align=center>
+
+
+<img src=Presentation_and_Visuals/PowerBI_Location-Based-Strategic-Dashborad_9.png width=400>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 <b>🔄 Bağlılık & Churn Analitiği</b>
 
-<img src=Presentation_and_Visuals/PowerBI_Retention&Churn_Insight_8.png width=700>
-<i>Oyuncu tutundurma ve terk etme risk analizleri.</i>
-</p>
+
+
+<img src=Presentation_and_Visuals/PowerBI_Retention&Churn_Insight_8.png width=400>
+</td>
+<td width="50%" align="center">
+<b>🎯 Oyuncu Segmentasyonu</b>
+
+
+
+<img src=Presentation_and_Visuals/PowerBI_PlayerSegmentation_7.png width=400>
+</td>
+</tr>
+</table>
 
 
 
