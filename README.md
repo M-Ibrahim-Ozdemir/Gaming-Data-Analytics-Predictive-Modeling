@@ -40,8 +40,8 @@ Canlı Tahminleme: İş birimleri, oyuncu metriklerini (yaş, harcama, oyun sür
 
 | Oyuncu Bağlılık Analizi | Model Başarı Metrikleri | Arayüz Tahminleme |
 | :---: | :---: | :---: |.....
-| <img src="Presentation_and_Visuals/powerBI_PlayerEngagement_3.png" width="300"> | <img src="Presentation_and_Visuals/PowerBı_ModelScores_4.png" width="300"> | <img src="Presentation_and_Visuals/ML(UI)_Engagement_High_3.png" width="300"> |  <img src="Presentation_and_Visuals/ML(UI)_EngagemenChurn_8.png" width="300"> |
-| *Segmentasyon Dağılımı* | *Skor sonucu* | *Canlı Test Sonucu* |
+| <img src="Presentation_and_Visuals/powerBI_PlayerEngagement_3.png" width="275"> | <img src="Presentation_and_Visuals/PowerBı_ModelScores_4.png" width="275"> | <img src="Presentation_and_Visuals/ML(UI)_Engagement_High_3.png" width="275"> |  <img src="Presentation_and_Visuals/ML(UI)_EngagemenChurn_8.png" width="275"> |
+| *bağlılık dağılımı* | *Skor sonucu* | *Canlı Test Sonucu* |
 
 
 
