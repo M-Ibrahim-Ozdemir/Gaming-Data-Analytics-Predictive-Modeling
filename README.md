@@ -11,9 +11,26 @@ Demografik Dağılım: Oyuncu kitlesinin yaş, cinsiyet ve bölge bazlı dağıl
 
 Bölgesel Performans: USA, Europe ve Asia bölgeleri arasında "Gelir Per-Capita" ve "Etkileşim Oranı" (Engagement Rate) farklılıkları saptanmış, lokasyon bazlı kampanya önerileri geliştirilmiştir.
 
-💡 Stratejik Aksiyon Planı,🌍 Bölgesel Pazar Analizi
-<img src=Presentation_and_Visuals/PowerBI_Strategic_Recommendations_12.png width=400>,<img src=Presentation_and_Visuals/PowerBI_Location-Based-Strategic-Dashborad_9.png width=400>
-Stratejik Öneriler,Bölgesel Analiz
+🔍 1. Keşifçi Veri Analizi (EDA) ve Veri Madenciliği
+<p align=center>
+<b>💡 Stratejik Aksiyon Planı</b>
+<img src=Presentation_and_Visuals/PowerBI_Strategic_Recommendations_12.png width=700>
+
+<i>Veriye dayalı stratejik karar destek önerileri.</i>
+</p>
+<p align=center>
+<b>🌍 Bölgesel Pazar Analizi</b>
+<img src=Presentation_and_Visuals/PowerBI_Location-Based-Strategic-Dashborad_9.png width=700>
+
+<i>USA, Europe ve Asia bölgeleri bazlı lokasyon analizleri.</i>
+</p>
+<p align=center>
+<b>🔄 Bağlılık & Churn Analitiği</b>
+
+<img src=Presentation_and_Visuals/PowerBI_Retention&Churn_Insight_8.png width=700>
+<i>Oyuncu tutundurma ve terk etme risk analizleri.</i>
+</p>
+
 
 
 
