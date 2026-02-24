@@ -36,16 +36,17 @@ F1-Score: Dengeli bir hassasiyet ve geri çağırma oranı sağlanmıştır.
 Analizlerin sadece raporlarda kalmaması için bir Web Arayüzü geliştirilmiştir.
 Canlı Tahminleme: İş birimleri, oyuncu metriklerini (yaş, harcama, oyun süresi vb.) sisteme girdiğinde, model anlık olarak bu oyuncunun "High", "Medium" veya "Low" bağlılık seviyesinde olduğunu tahmin eder.
 
+### 📊 Analiz ve Tahminleme Sonuçları
 
-<p align="center">
-  <img src="Presentation_and_Visuals/ML(UI)_Engagement_Low_Churn.png_9.png" width="800" title="PixelWise Interface">
-</p>
+| Oyuncu Bağlılık Analizi | Model Başarı Metrikleri | Arayüz Tahminleme |
+| :---: | :---: | :---: |
+| <img src="Presentation_and_Visuals/PowerBI_PlayerSegmentation_7.png" width="250"> | <img src="Presentation_and_Visuals/PowerBı_ModelScores_4.png" width="250"> | <img src="Presentation_and_Visuals/ML(UI)_Engagement_High_3.png" width="250"> |  <img src="Presentation_and_Visuals/ML(UI)_EngagemenChurn_8.png" width="250"> |
+| *Segmentasyon Dağılımı* | *Skor sonucu* | *Canlı Test Sonucu* |
 
 
 
 
 
-ML(UI)_Engagement_Low_Churn.png_9.png
 
 
 
