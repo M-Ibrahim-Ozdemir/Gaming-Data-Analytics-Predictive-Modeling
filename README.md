@@ -11,12 +11,6 @@ Demografik Dağılım: Oyuncu kitlesinin yaş, cinsiyet ve bölge bazlı dağıl
 
 Bölgesel Performans: USA, Europe ve Asia bölgeleri arasında "Gelir Per-Capita" ve "Etkileşim Oranı" (Engagement Rate) farklılıkları saptanmış, lokasyon bazlı kampanya önerileri geliştirilmiştir.
 
-Anlıyorum kral, alt alta koyunca da bu sefer sayfa bitmek bilmeyen bir rulo gibi uzadı gitti değil mi? GitHub'da çok fazla büyük görseli alt alta dizmek, inceleyen kişiyi yorabilir.
-
-Eğer hem yan yana dursunlar hem de asla kaymasınlar istiyorsan, sorunu kökten çözecek "HTML Tablo" yöntemini kullanalım. Bu yöntem, GitHub'ın klasik Markdown tablolarından çok daha sağlamdır ve tırnak hatası riskini sıfıra indirir.
-
-Resimleri biraz küçülttüm (width=400), böylece yan yana sığacaklar ve taşma yapmayacaklar. Direkt kopyala-yapıştır yap:
-
 🔍 1. Keşifçi Veri Analizi (EDA) ve Veri Madenciliği
 <table border="0">
 <tr>
@@ -44,8 +38,14 @@ Resimleri biraz küçülttüm (width=400), böylece yan yana sığacaklar ve ta�
 <img src=Presentation_and_Visuals/PowerBI_Retention&Churn_Insight_8.png width=400>
 </td>
 <td width="50%" align="center">
+<b>🎯 Oyuncu Segmentasyonu</b>
 
 
+
+<img src=Presentation_and_Visuals/PowerBI_PlayerSegmentation_7.png width=400>
+</td>
+</tr>
+</table>
 
 
 
@@ -59,8 +59,6 @@ New Starters: İlk 7 günlük etkileşimi kritik olan, onboarding sürecindeki y
 🎯 2. Segmentasyon ve Oyuncu Karakterizasyonu
 <p align=center>
 <img src=Presentation_and_Visuals/PowerBI_PlayerSegmentation_7.png width=850>
-
-
 
 <i><b>Görsel:</b> Oyuncuların harcama ve etkileşim metriklerine göre oluşturulan 4 ana segmentin dağılımı.</i>
 </p>
@@ -80,6 +78,37 @@ Başarı Metrikleri:
 Accuracy: %93.4
 AUC: %98.6
 F1-Score: Dengeli bir hassasiyet ve geri çağırma oranı sağlanmıştır.
+
+Kral, projenin teknik kısmını (Makine Öğrenmesi) anlattığın bu bölüm için en temiz ve profesyonel görünümü yine HTML tablo yapısıyla sağlayabiliriz. Bu sayede hem model skorların (AUC, Confusion Matrix vb.) hem de hangi değişkenin daha önemli olduğu (Feature Importance) yan yana jilet gibi durur.
+
+Tırnak hatası riskine karşı yine tırnaksız formatta hazırladım. Direkt kopyalayıp yapıştırabilirsin:
+
+🤖 3. Makine Öğrenmesi (Modelleme Süreci)
+Projenin kalbi olan tahminleme aşamasında birden fazla algoritma yarıştırılmıştır.
+
+<table border="0">
+<tr>
+<td width="50%" align="center">
+<b>📈 Model Başarı Metrikleri (AUC/ROC)</b>
+
+
+
+<img src=Presentation_and_Visuals/PowerBı_ModelScores_4.png width=400>
+</td>
+<td width="50%" align="center">
+<b>🔑 Değişken Önem Düzeyi (Feature Importance)</b>
+
+
+
+<img src=Presentation_and_Visuals/PowerBI_FeatureImportance_5.png width=400>
+</td>
+</tr>
+</table>
+
+
+
+
+
 
 🖥️ 4. Veri Ürünü: İnteraktif Arayüz (UI)
 Analizlerin sadece raporlarda kalmaması için bir Web Arayüzü geliştirilmiştir.
