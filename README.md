@@ -11,10 +11,12 @@ Demografik Dağılım: Oyuncu kitlesinin yaş, cinsiyet ve bölge bazlı dağıl
 
 Bölgesel Performans: USA, Europe ve Asia bölgeleri arasında "Gelir Per-Capita" ve "Etkileşim Oranı" (Engagement Rate) farklılıkları saptanmış, lokasyon bazlı kampanya önerileri geliştirilmiştir.
 
-💡 Stratejik Aksiyon Planı,🌍 Bölgesel Pazar Analizi,🔄 Bağlılık & Churn Analitiği
-<img src=Presentation_and_Visuals/PowerBI_Strategic_Recommendations_12.png width=280>,<img src=Presentation_and_Visuals/PowerBI_Location-Based-Strategic-Dashborad_9.png width=280>,<img src=Presentation_and_Visuals/PowerBI_Retention&Churn_Insight_8.png width=280>
-Stratejik Öneriler,Bölgesel Analiz,Retention & Churn
-
+💡 Stratejik Aksiyon Planı,🌍 Bölgesel Pazar Analizi
+<img src=Presentation_and_Visuals/PowerBI_Strategic_Recommendations_12.png width=400>,<img src=Presentation_and_Visuals/PowerBI_Location-Based-Strategic-Dashborad_9.png width=400>
+Stratejik Öneriler,Bölgesel Analiz
+🔄 Bağlılık & Churn Analitiği
+<img src=Presentation_and_Visuals/PowerBI_Retention&Churn_Insight_8.png width=400>
+Retention & Churn Analizi
 
 
 🎯 2. Segmentasyon ve İçgörü Geliştirme
@@ -23,6 +25,17 @@ Hardcore Spenders: Yüksek harcama ve yüksek oyun süresine sahip, ana gelir ka
 Casual Loyalists: Düşük harcama yapan ama her gün giriş yapan, topluluk etkileşimini yüksek tutan kitle.
 At-Risk Explorers: Seviye ilerlemesi yavaşlamış ve oyunu bırakma eğilimi (Churn) gösteren riskli grup.
 New Starters: İlk 7 günlük etkileşimi kritik olan, onboarding sürecindeki yeni kullanıcılar.
+
+🎯 2. Segmentasyon ve Oyuncu Karakterizasyonu
+<p align=center>
+<img src=Presentation_and_Visuals/PowerBI_PlayerSegmentation_7.png width=850>
+
+
+
+<i><b>Görsel:</b> Oyuncuların harcama ve etkileşim metriklerine göre oluşturulan 4 ana segmentin dağılımı.</i>
+</p>
+
+
 
 🤖 3. Makine Öğrenmesi (Modelleme Süreci)
 Projenin kalbi olan tahminleme aşamasında birden fazla algoritma yarıştırılmıştır.
