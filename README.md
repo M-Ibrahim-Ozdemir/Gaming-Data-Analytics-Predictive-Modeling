@@ -38,7 +38,7 @@ Canlı Tahminleme: İş birimleri, oyuncu metriklerini (yaş, harcama, oyun sür
 
 
 <p align="center">
-<img src="https://www.google.com/search?q=./Presentation_and_Visuals/ML(UI)_Engagement_Low_Churn.png_9.png" width="800" title="PixelWise Interface">
+  <img src="Presentation_and_Visuals/ML(UI)_Engagement_Low_Churn.png_9.png" width="800" title="PixelWise Interface">
 </p>
 
 
