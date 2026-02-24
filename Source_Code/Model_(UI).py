@@ -258,4 +258,5 @@ st.markdown("""
             ✨ Perform AI-powered loyalty analysis using player data... ✨
         </p>
     </div>
+
 """, unsafe_allow_html=True)
